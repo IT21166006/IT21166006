@@ -28,7 +28,7 @@
 - [SLIITITP](https://github.com/SLIITITP)
 
 
-#### Bolg:
+#### Blog:
 
 - 🔊 NAN
 
