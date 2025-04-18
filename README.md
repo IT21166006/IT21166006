@@ -117,8 +117,8 @@
 
 #### My GitHub Stats(Only Personal Public Contributions 😑)
 
-<a href="https://github.com/WEGFan">
-  <img src="https://github-readme-stats.vercel.app/api?username=WEGFan&show_icons=true" alt="WEGFan's GitHub Stats" />
+<a href="https://github.com/IT21166006">
+  <img src="https://github-readme-stats.vercel.app/api?username=IT21166006&show_icons=true" alt="IT21166006's GitHub Stats" />
 </a>
 
 ⭐️ From [Mr-Tharindu]([https://github.com/Mr-jiangzhiguo](https://github.com/IT21166006/IT21166006))
