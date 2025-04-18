@@ -6,7 +6,7 @@
 
 [📧](ytdilshan07@gmail.com)
 
-> I'm Full Stack Engineer
+> <img src="https://readme-typing-svg.herokuapp.com?vCenter=true&width=500&lines=Project+Manager+and+Fullstack+Developer;Fullstack+Developer+with+1%2B+Years+Experience;Passionate+about+Crypto+Web3" height="40"/>
 
 #### 📍 Currently base at: Colombo, Srilanka 🇱🇰
 
