@@ -137,7 +137,7 @@
 <img align="left" alt="Avinash's Github Stats" src="https://github-readme-stats.vercel.app/api?username=IT21166006&&show_icons=true&theme=dark" width="50%" />
 <img alt="Top Languages used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IT21166006&layout=compact&theme=dark" width="46%" />
 <br>
-<img src="https://activity-graph.herokuapp.com/graph?username=IT21166006&theme=xcode">
+
 
 ⭐️ From [Mr-Tharindu]([https://github.com/Mr-jiangzhiguo](https://github.com/IT21166006/IT21166006))
 
