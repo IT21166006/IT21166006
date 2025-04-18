@@ -1,6 +1,7 @@
 ### Hi there, I'm Tharindu 👨‍💻
 
-https://user-images.githubusercontent.com/61057666/169029838-74df663d-2e62-4d77-bdff-b43f7d63f00f.png
+![169029838-74df663d-2e62-4d77-bdff-b43f7d63f00f](https://github.com/user-attachments/assets/94a6da41-60de-4725-94f5-2f6260bd3cf2)
+
 
 [📧](jiangzhiguo2010@live.com)
 
