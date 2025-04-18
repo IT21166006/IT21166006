@@ -131,5 +131,19 @@
   <img src="https://github-readme-stats.vercel.app/api?username=IT21166006&show_icons=true" alt="IT21166006's GitHub Stats" />
 </a>
 
+####
+<h1 align="center">Github Stats</h1>
+
+<div align="center">
+  
+[![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=avinash201199&theme=highcontrast)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
+ </div>
+
+<img align="left" alt="Avinash's Github Stats" src="https://github-readme-stats.vercel.app/api?username=avinash201199&&show_icons=true&theme=dark" width="50%" />
+<img alt="Top Languages used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avinash201199&layout=compact&theme=dark" width="46%" />
+<br>
+<img src="https://activity-graph.herokuapp.com/graph?username=avinash201199&theme=xcode">
+
 ⭐️ From [Mr-Tharindu]([https://github.com/Mr-jiangzhiguo](https://github.com/IT21166006/IT21166006))
 
