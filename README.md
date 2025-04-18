@@ -121,9 +121,25 @@
 - [CodeLab-xyz](https://github.com/CodeLab-xyz)
 
 
-#### Blog:
-
-- 🔊 
+#### A little more about me
+```javascript
+const Tharindu = {
+  pronouns: "He" | "Him",
+  age: 25 ,
+  code: ["Javascript", "Python", "React", "mongodb", "PHP"],
+  askMeAbout: ["web dev", "fullstack dev", "python" ],
+  technologies: {
+      frontend: {
+          js: ["React JS", "Next JS" , "Typescript" ],
+          css: ["Tailwind CSS", "SCSS/SASS"]
+      },
+      codeEditor: {
+          competitiveProgramming: ["VS Code"],
+          frontEndDev: ["VS Code"]
+      }
+  }
+}
+```
 
 
 <h1 align="center">Github Stats</h1>
