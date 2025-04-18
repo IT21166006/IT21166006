@@ -21,25 +21,7 @@
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </div>
-#### A little more about me
-```javascript
-const Tharindu = {
-  pronouns: "He" | "Him",
-  age: 25 ,
-  code: ["Javascript", "Python", "React", "mongodb", "PHP"],
-  askMeAbout: ["web dev", "fullstack dev", "python" ],
-  technologies: {
-      frontend: {
-          js: ["React JS", "Next JS" , "Typescript" ],
-          css: ["Tailwind CSS", "SCSS/SASS"]
-      },
-      codeEditor: {
-          competitiveProgramming: ["VS Code"],
-          frontEndDev: ["VS Code"]
-      }
-  }
-}
-```
+
 #### 👨🏻‍💻 Currently working on:
 
 <div align="left">
@@ -133,6 +115,26 @@ const Tharindu = {
 </div>
 
 ###
+
+#### A little more about me
+```javascript
+const Tharindu = {
+  pronouns: "He" | "Him",
+  age: 25 ,
+  code: ["Javascript", "Python", "React", "mongodb", "PHP"],
+  askMeAbout: ["web dev", "fullstack dev", "python" ],
+  technologies: {
+      frontend: {
+          js: ["React JS", "Next JS" , "Typescript" ],
+          css: ["Tailwind CSS", "SCSS/SASS"]
+      },
+      codeEditor: {
+          competitiveProgramming: ["VS Code"],
+          frontEndDev: ["VS Code"]
+      }
+  }
+}
+```
 
 #### Currently organizations:
 
