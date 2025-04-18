@@ -1,10 +1,10 @@
-### Hi there, I'm Tharindu 👨‍💻
+### Hi there, I'm Tharindu 👨‍💻 [📧](ytdilshan07@gmail.com)
 
 ![169029838-74df663d-2e62-4d77-bdff-b43f7d63f00f](https://github.com/user-attachments/assets/94a6da41-60de-4725-94f5-2f6260bd3cf2)
 
 ##
 
-[📧](ytdilshan07@gmail.com)
+
 
 > <img src="https://readme-typing-svg.herokuapp.com?vCenter=true&width=500&lines=Project+Manager+and+Fullstack+Developer;Fullstack+Developer+with+1%2B+Years+Experience;Passionate+about+Crypto+Web3" height="40"/>
 
